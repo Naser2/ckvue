@@ -16,6 +16,7 @@ npm run build
 ```
 
 ### Lints and fixes files
+This is a scalable Vue app for a Chef
 ```
 npm run lint
 ```
